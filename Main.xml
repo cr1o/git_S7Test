@@ -79,7 +79,7 @@
   <Parts>
     <Access Scope="TypedConstant" UId="21">
       <Constant>
-        <ConstantValue>T#3s</ConstantValue>
+        <ConstantValue>T#10s</ConstantValue>
       </Constant>
     </Access>
     <Call UId="22">
